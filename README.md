@@ -1,1 +1,1 @@
-# js-b-sico
+# Platzi JS Básico
